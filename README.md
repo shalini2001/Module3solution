@@ -1,3 +1,3 @@
 index1.html
-style.css
+styles.css
 bootstrap.min.css
